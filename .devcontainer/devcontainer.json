@@ -22,4 +22,7 @@
          ]
      }
  }
+  // PART 3 OF TUTORIAL
+   ,
+ "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
 }
